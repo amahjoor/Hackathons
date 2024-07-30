@@ -2,7 +2,7 @@ name: "Edit Hackathon"
 description: "Template for editing an existing hackathon in the repo."
 title: "Edit Hackathon: [Hackathon Name]"
 labels: "edit"
-assignees: ""
+assignees: []
 body:
   - type: input
     id: current_hackathon_name
