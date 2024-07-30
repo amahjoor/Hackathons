@@ -4,30 +4,31 @@ title: "Edit Hackathon: [Hackathon Name]"
 labels: "edit"
 assignees: []
 body:
-  - type: input
-    id: current_hackathon_name
+  - type: dropdown
+    id: applications
     attributes:
-      label: "Current Hackathon Name"
-      description: "Name of the hackathon to be edited"
-      placeholder: "Hackathon Name"
-    validations:
-      required: true
-
+      label: "applications"
+        - label: "Is this hackathon still (going to be) accepting applications?"
+          multiple:
+          options:
+          - "Yes"
+          - "No"
+  - type: dropdown
+    id: applications
+    attributes:
+      label: "applications"
+        - label: "Is this hackathon still happening?"
+          multiple:
+          options:
+          - "Yes"
+          - "No"
+          
   - type: input
     id: updated_hackathon_name
     attributes:
       label: "Updated Hackathon Name"
       description: "New name if applicable"
       placeholder: "Updated Hackathon Name"
-
-  - type: input
-    id: current_date
-    attributes:
-      label: "Current Date"
-      description: "Existing date"
-      placeholder: "YYYY-MM-DD"
-    validations:
-      required: true
 
   - type: input
     id: updated_date
@@ -37,29 +38,11 @@ body:
       placeholder: "YYYY-MM-DD"
 
   - type: input
-    id: current_location
-    attributes:
-      label: "Current Location"
-      description: "Existing location"
-      placeholder: "Location"
-    validations:
-      required: true
-
-  - type: input
     id: updated_location
     attributes:
       label: "Updated Location"
       description: "New location if applicable"
       placeholder: "Updated Location"
-
-  - type: input
-    id: current_application_link
-    attributes:
-      label: "Current Application/Link"
-      description: "Existing link"
-      placeholder: "https://example.com"
-    validations:
-      required: true
 
   - type: input
     id: updated_application_link
@@ -81,15 +64,3 @@ body:
     attributes:
       label: "Additional Notes"
       description: "Any additional notes or comments"
-
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: "Checklist"
-      options:
-        - label: "I have provided the correct information."
-          required: true
-        - label: "I have checked the existing hackathon details to confirm the updates."
-          required: true
-        - label: "I understand that incorrect or incomplete information may delay the update."
-          required: true
