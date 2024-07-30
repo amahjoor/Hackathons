@@ -17,7 +17,6 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 
 | Hackathon | Date | Location | Application/Link |
 | --------- | ---- | -------- | ---------------- |
-| **[Owl Hacks](https://www.owlhacks.com)** | Date | Location | <a href="https://www.owlhacks.com"><img src="https://imgur.com/jYSRXjU" width="84" alt="Apply"></a> |
 | **[Hack the North](https://hackthenorth.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthenorth.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hop Hacks](https://hophacks.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hophacks.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[VTHacks](https://vthacks.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://vthacks.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
@@ -33,6 +32,7 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[GirlHacks](https://girlhacks.github.io)** | September 28-29, 2024 | Newark, New Jersey | <a href="https://girlhacks.github.io"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Knight Hacks VII](https://2024.knighthacks.org)** | October 4-6, 2024 | Orlando, Florida | <a href="https://2024.knighthacks.org"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[DivHacks 2024](https://www.columbiadivhacks.org)** | October 5-6, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthenorth.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Owl Hacks](https://www.owlhacks.com)** | October 5-6, 2024 | Philadelphia, Pennsylvania | <a href="https://www.owlhacks.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackSMU VI](https://hacksmu.org)** | October 5-6, 2024 | Dallas, Texas | <a href="https://hacksmu.org"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[DubHacks](https://dh24.dubhacks.co)** | October 12-13, 2024 | Seattle, Washington | <a href="https://dh24.dubhacks.co"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack Dearborn 3](https://www.hackdearborn.org)** | October 12-13, 2024 | Dearborn, Michigan | <a href="https://www.hackdearborn.org"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
