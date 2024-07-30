@@ -8,20 +8,20 @@ body:
     id: applications
     attributes:
       label: "Applications"
-        - label: "Is this hackathon still (going to be) accepting applications?"
-          multiple:
-          options:
-          - "Yes"
-          - "No"
+      description: "Is this hackathon still (going to be) accepting applications?"
+      multiple:
+      options:
+      - "Yes"
+      - "No"
   - type: dropdown
     id: status
     attributes:
       label: "Status"
-        - label: "Is this hackathon still happening?"
-          multiple:
-          options:
-          - "Yes"
-          - "No"
+      description: "Is this hackathon still happening?"
+      multiple:
+      options:
+      - "Yes"
+      - "No"
           
   - type: input
     id: updated_hackathon_name
