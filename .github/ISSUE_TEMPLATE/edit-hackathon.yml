@@ -7,16 +7,16 @@ body:
   - type: dropdown
     id: applications
     attributes:
-      label: "applications"
+      label: "Applications"
         - label: "Is this hackathon still (going to be) accepting applications?"
           multiple:
           options:
           - "Yes"
           - "No"
   - type: dropdown
-    id: applications
+    id: status
     attributes:
-      label: "applications"
+      label: "Status"
         - label: "Is this hackathon still happening?"
           multiple:
           options:
