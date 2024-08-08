@@ -82,6 +82,7 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | Hackathon | Speculated Date | Location | Application/Link |
 | --------- | --------------- | -------- | ---------------- |
 | **[Central New York Hackathon](https://www.cnyhackathon.org)** | November 2024 | New York, New York | <a href="https://www.cnyhackathon.org"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Cornell Big Red Hacks](https://www.bigredhacks.com)** | Fall 2024 | Ithaca, New York | <a href="https://www.bigredhacks.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[UofTHacks 12](https://uofthacks.com)** | January 2025 | Toronto, Ontario | <a href="https://uofthacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[SBU Hacks](https://sbuhacks.org)** | February 2025 | New York, New York | <a href="https://sbuhacks.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackCuny](https://hackcuny.com)** | February 2025 | New York, New York | <a href="https://hackcuny.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
