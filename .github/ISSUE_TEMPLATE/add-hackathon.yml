@@ -3,7 +3,7 @@ description: "Template for adding a new hackathon to the repo."
 title: "Add Hackathon: [Hackathon Name]"
 labels: "add"
 assignees: []
-body:     
+body:
   - type: input
     id: hackathon_name
     attributes:
