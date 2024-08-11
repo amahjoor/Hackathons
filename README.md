@@ -18,14 +18,14 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | Hackathon | Date | Location | Application/Link |
 | --------- | ---- | -------- | ---------------- |
 | **[Hack the North](https://hackthenorth.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthenorth.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[Hop Hacks](https://hophacks.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hophacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[VTHacks](https://vthacks.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://vthacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Hop Hacks](https://hophacks.com)** | September 13-15, 2024 | Baltimore, Maryland | <a href="https://hophacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[VTHacks](https://vthacks.com)** | September 13-15, 2024 | Blacksburg, Virginia | <a href="https://vthacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Cornell AI Hackathon](https://eship.cornell.edu/all-events/hackathons/)** | September 13-15, 2024 | New York City, New York | <a href="https://eship.cornell.edu/all-events/hackathons/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackMIT](https://hackmit.org)** | September 14-15, 2024 | Boston, Massachussetts | <a href="https://hackmit.org"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[HackMTY](https://hackmty.com)** | September 14-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hackmty.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[Hack the Mountains 5.0](https://hackthemountain.tech)** | September 14-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthemountain.tech" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[HackRice 14](https://www.hackrice.com)** | September 20-22, 2024 | Waterloo, Ontario, Canada | <a href="https://www.hackrice.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[PennApps](https://2024f.pennapps.com)** | September 20-22, 2024 | Waterloo, Ontario, Canada | <a href="https://2024f.pennapps.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[HackMTY](https://hackmty.com)** | September 14-15, 2024 | Monterrey Nuevo Leon | <a href="https://hackmty.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Hack the Mountains 5.0](https://hackthemountain.tech)** | September 14-15, 2024 | Marwadi University, Gujarat | <a href="https://hackthemountain.tech" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[HackRice 14](https://www.hackrice.com)** | September 20-22, 2024 | Houston, Texas | <a href="https://www.hackrice.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[PennApps](https://2024f.pennapps.com)** | September 20-22, 2024 | Philadelphia, Pennsylvania | <a href="https://2024f.pennapps.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackGT 11](https://hack.gt)** | September 27-29, 2024 | Atlanta, Georgia | <a href="https://hack.gt" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[ShellHacks](https://www.shellhacks.net)** | September 27-29, 2024 | Miami, Florida | <a href="https://www.shellhacks.net" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[TechNova](https://itstechnova.org)** | September 27-29, 2024 | Waterloo, Ontario | <a href="https://itstechnova.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
