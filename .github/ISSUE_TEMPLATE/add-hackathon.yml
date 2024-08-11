@@ -1,0 +1,43 @@
+name: "Add Hackathon"
+description: "Template for adding a new hackathon to the repo."
+title: "Add Hackathon: [Hackathon Name]"
+labels: "add"
+assignees: []
+body:     
+  - type: input
+    id: hackathon_name
+    attributes:
+      label: "Hackathon Name"
+      description: "What's the name of the hackathon?"
+      placeholder: "Hackathon Name"
+      validations:
+        required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: "Date"
+      description: "When is the hackathon happening?"
+      placeholder: "MM-DD-YYYY"
+      validations:
+        required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: "Location"
+      description: "Where is it?"
+      placeholder: "Location"
+
+  - type: input
+    id: application_link
+    attributes:
+      label: "Application/Link"
+      description: "Please share the hackathon link."
+      placeholder: "https://example.com"
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: "Additional Notes"
+      description: "Any additional notes or comments"
