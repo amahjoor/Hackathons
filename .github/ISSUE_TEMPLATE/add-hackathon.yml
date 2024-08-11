@@ -10,8 +10,8 @@ body:
       label: "Hackathon Name"
       description: "What's the name of the hackathon?"
       placeholder: "Hackathon Name"
-      validations:
-        required: true
+    validations:
+      required: true
 
   - type: input
     id: date
@@ -19,8 +19,8 @@ body:
       label: "Date"
       description: "When is the hackathon happening?"
       placeholder: "MM-DD-YYYY"
-      validations:
-        required: true
+    validations:
+      required: true
 
   - type: input
     id: location
@@ -28,6 +28,8 @@ body:
       label: "Location"
       description: "Where is it?"
       placeholder: "Location"
+    validations:
+      required: true
 
   - type: input
     id: application_link
@@ -35,7 +37,9 @@ body:
       label: "Application/Link"
       description: "Please share the hackathon link."
       placeholder: "https://example.com"
-
+    validations:
+      required: true
+      
   - type: textarea
     id: additional_notes
     attributes:
