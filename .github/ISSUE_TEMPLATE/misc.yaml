@@ -12,6 +12,7 @@ body:
     attributes:
       label: What you have to share
       description: Let me know!
-      placeholder: ex. <i>There's a huge problem with this list and it's that...</i> OR <i>I love that...</i>
+      placeholder: ex. There's a huge problem with this list and it's that...
+      OR... I love that...
     validations:
       required: true
