@@ -1,0 +1,17 @@
+name: Miscellaneous Issue
+description: Ask a question or suggest any improvements!
+title: "<issue>"
+labels: ["misc"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Let me know any questions, comments, feedback, criticism, or praise you may have to share. Thank you!
+  - type: textarea
+    id: misc
+    attributes:
+      label: Issue/Question
+      description: Let me know!
+      placeholder: ex. There's a huge problem with this list and it's that...
+    validations:
+      required: true
