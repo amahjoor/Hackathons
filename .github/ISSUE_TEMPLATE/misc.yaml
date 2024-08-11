@@ -10,7 +10,7 @@ body:
   - type: textarea
     id: misc
     attributes:
-      label: Issue/Question
+      label: What you have to share
       description: Let me know!
       placeholder: ex. There's a huge problem with this list and it's that...
     validations:
