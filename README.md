@@ -117,4 +117,4 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 Contribute by submitting an [issue](https://github.com/amahjoor/Hackathon-List/issues/new/choose)!
 
 ## Acknowledgements
-Thank you to [Simplify](https://github.com/SimplifyJobs/Summer2025-Internships) for this template. Thank you to [MLH](https://mlh.io/seasons/2025/events) for hosting many of the great hackathons on this list. Thank you to [Devpost](https://devpost.com) for allowing many to host and take part in hackathons.
+Thank you to [Simplify](https://github.com/SimplifyJobs/Summer2025-Internships) for this template. Thank you to [MLH](https://mlh.io/seasons/2025/events) for hosting many of the great hackathons on this list. Thank you to [Devpost](https://devpost.com) for allowing many to host and take part in hackathons. Special thanks to everyone who organizes and sponsors hackathons.
