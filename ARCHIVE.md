@@ -5,12 +5,16 @@ This just contains hackathons that are over, in case anyone was interested for a
 🙏 **Contribute a hackathon or any suggestions by submitting an [issue](https://github.com/amahjoor/Hackathon-List/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-## Past Hackathons 💀
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
+## Past Hackathons 💀
+| Hackathon | Date | Location | Application/Link |
+| --------- | ---- | -------- | ---------------- |
 | **[Gemini API Developer Competition](https://ai.google.dev/competition)** | Ended Aug 12, 2024 | Virtual |
 | **[Canva AI and Integrations Hackathon](https://canva.devpost.com)** | Ended August 12, 2024 | Virtual |
+
+<!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
 ## Contribute to the hackathon search ❤️❤️
 Contribute by submitting an [issue](https://github.com/amahjoor/Hackathon-List/issues/new/choose)!
