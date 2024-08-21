@@ -44,10 +44,11 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[Hack WashU](https://hackwashu.com)** | October 18-20, 2024 | St. Louis, Missouri | <a href="https://hackwashu.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[NewHacks 2024](https://newhacks.ca)** | October 26-27, 2024 | Toronto, Ontario | <a href="https://newhacks.ca" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Technica](https://gotechnica.org)** | October 26-27, 2024 | College Park, Maryland | <a href="https://gotechnica.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[HackUNT](https://www.hackunt.org/)** | October 26-27, 2024 | Denton, Texas | <a href="https://www.hackunt.org/s/register" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[DurHacks](https://durhack.com)** | November 2-3, 2024 | Durham, County Durham | <a href="https://durhack.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Cornell J&J Global Services Hackathon](https://eship.cornell.edu/all-events/hackathons/)** | November 8-10, 2024 | New York, New York > | <a href="https://eship.cornell.edu/all-events/hackathons/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack UMass XII](https://hackumass.com)** | November 8-10, 2024 | Amherst, Massachussetts | <a href="https://hackumass.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[Hack UMass XII](https://www.hackprinceton.com)** | November 8-10, 2024 | Princeton, New Jersey | <a href="https://www.hackprinceton.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[HackPrinceton](https://www.hackprinceton.com)** | November 8-10, 2024 | Princeton, New Jersey | <a href="https://www.hackprinceton.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[GreatUniHack](https://greatunihack.com)** | November 9-10, 2024 | Manchester, Greater Manchester, United Kingdom | <a href="https://greatunihack.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[hackCBS](https://hackcbs.tech)** | November 9-10, 2024 | New Delhi, India | <a href="https://hackcbs.tech" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackRPI](https://www.hackrpi.com)** | November 9-10, 2024 | Troy, New York | <a href="https://www.hackrpi.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
@@ -95,8 +96,6 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 # Virtual Hackathons
 | Hackathon | Date | Location | Application/Link |
 | --------- | ---- | -------- | ---------------- |
-| **[Gemini API Developer Competition](https://ai.google.dev/competition)** | Now - August 11, 2024 | Virtual | <a href="https://ai.google.dev/competition" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[Canva AI and Integrations Hackathon](https://canva.devpost.com)** | Now - August 12, 2024 | Virtual | <a href="https://canva.devpost.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[GirlCode Hackathon 2024](https://girlcode-hackathon-2024.devpost.com/)** | Now - August 23, 2024 | Virtual | <a href="https://girlcode-hackathon-2024.devpost.com/?ref_feature=challenge" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[TiDB Future App Hackathon 2024](https://tidbhackathon2024.devpost.com/)** | Now - August 23, 2024 | Virtual | <a href="https://tidbhackathon2024.devpost.com/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Zero to One Hackathon by Convex Vol 2](https://convexhackathon2.devpost.com/)** | Now - September 17, 2024 | Virtual | <a href="https://convexhackathon2.devpost.com/?ref_feature=challenge" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
