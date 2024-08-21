@@ -34,4 +34,4 @@ If you have:
 
 Submit a [misc issue](https://github.com/amahjoor/Hackathons/issues/new/choose).
 
-🗣️ **If you've read this far, I'd like to invite you to collaborate with me on the hackathon list.** If you're interested in helping update the repository with new hackathons and contributions, feel free to reach out! 🗣️
+🗣️ **If you've read this far, I'd like to invite you to collaborate with me on maintaining the hackathon list.** If you're interested in helping update the repository with new hackathons and contributions, feel free to reach out! 🗣️
