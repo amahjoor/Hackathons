@@ -13,6 +13,8 @@ This just contains hackathons that are over, in case anyone was interested for a
 | --------- | ---- | -------- |
 | **[Gemini API Developer Competition](https://ai.google.dev/competition)** | Ended Aug 12, 2024 | Virtual |
 | **[Canva AI and Integrations Hackathon](https://canva.devpost.com)** | Ended August 12, 2024 | Virtual |
+| **[GirlCode Hackathon 2024](https://girlcode-hackathon-2024.devpost.com/)** | Ended August 23, 2024 | Virtual |
+| **[TiDB Future App Hackathon 2024](https://tidbhackathon2024.devpost.com/)** | Ended August 23, 2024 | Virtual |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 

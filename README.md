@@ -96,8 +96,6 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 # Virtual Hackathons
 | Hackathon | Date | Location | Application/Link |
 | --------- | ---- | -------- | ---------------- |
-| **[GirlCode Hackathon 2024](https://girlcode-hackathon-2024.devpost.com/)** | Now - August 23, 2024 | Virtual | <a href="https://girlcode-hackathon-2024.devpost.com/?ref_feature=challenge" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[TiDB Future App Hackathon 2024](https://tidbhackathon2024.devpost.com/)** | Now - August 23, 2024 | Virtual | <a href="https://tidbhackathon2024.devpost.com/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Zero to One Hackathon by Convex Vol 2](https://convexhackathon2.devpost.com/)** | Now - September 17, 2024 | Virtual | <a href="https://convexhackathon2.devpost.com/?ref_feature=challenge" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[RevenueCat Ship-a-thon](https://revenuecat-ship-a-ton.devpost.com/)** | Now - September 19, 2024 | Virtual | <a href="https://revenuecat-ship-a-ton.devpost.com/?ref_feature=challenge" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[FuturistFest 2024 x NASA](https://futuristfest-2024.devpost.com/)** | Now - September 23, 2024 | Virtual | <a href="https://futuristfest-2024.devpost.com/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
