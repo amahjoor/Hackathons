@@ -17,7 +17,7 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 # In-Person Hackathons
 | Hackathon | Date | Location | Application/Link |
 | --------- | ---- | -------- | ---------------- |
-| **[Hack the North](https://hackthenorth.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthenorth.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Hack the North](https://hackthenorth.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | 🔒 |
 | **[Hop Hacks](https://hophacks.com)** | September 13-15, 2024 | Baltimore, Maryland | <a href="https://hophacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[VTHacks](https://vthacks.com)** | September 13-15, 2024 | Blacksburg, Virginia | <a href="https://vthacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackMIT](https://hackmit.org)** | September 14-15, 2024 | Boston, Massachussetts | 🔒 |
