@@ -20,7 +20,6 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[Hack the North](https://hackthenorth.com)** | September 13-15, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthenorth.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hop Hacks](https://hophacks.com)** | September 13-15, 2024 | Baltimore, Maryland | <a href="https://hophacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[VTHacks](https://vthacks.com)** | September 13-15, 2024 | Blacksburg, Virginia | <a href="https://vthacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[Cornell AI Hackathon](https://eship.cornell.edu/all-events/hackathons/)** | September 13-15, 2024 | New York City, New York | <a href="https://eship.cornell.edu/all-events/hackathons/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackMIT](https://hackmit.org)** | September 14-15, 2024 | Boston, Massachussetts | 🔒 |
 | **[HackMTY](https://hackmty.com)** | September 14-15, 2024 | Monterrey Nuevo Leon | <a href="https://hackmty.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack the Mountains 5.0](https://hackthemountain.tech)** | September 14-15, 2024 | Marwadi University, Gujarat | <a href="https://hackthemountain.tech" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
@@ -43,6 +42,7 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[HackHarvard 2024](https://www.hackharvard.io)** | October 18-20, 2024 | Boston, Massachussetts | <a href="https://www.hackharvard.io" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[CalHacks](https://hackberkeley.org)** | October 18-20, 2024 | San Francisco, California | <a href="https://hackberkeley.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack WashU](https://hackwashu.com)** | October 18-20, 2024 | St. Louis, Missouri | <a href="https://hackwashu.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Cornell Food Hackathon](https://foodhackathon.splashthat.com/)** | October 25-27, 2024 | Ithaca, New York | <a href="https://foodhackathon.splashthat.com/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[NewHacks 2024](https://newhacks.ca)** | October 26-27, 2024 | Toronto, Ontario | <a href="https://newhacks.ca" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Technica](https://gotechnica.org)** | October 26-27, 2024 | College Park, Maryland | <a href="https://gotechnica.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackUNT](https://www.hackunt.org/)** | October 26-27, 2024 | Denton, Texas | <a href="https://www.hackunt.org/s/register" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
@@ -72,11 +72,13 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[UGAHacks X](https://x.ugahacks.com)** | February 7-9, 2025 | Athens, Georgia | <a href="https://x.ugahacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack(H)er413](https://www.hackher413.com)** | February 15-16, 2025 | Amherst, Massachusetts | <a href="https://www.hackher413.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[RevolutionUC](https://revolutionuc.com)** | February 22-23, 2025 | Cincinnati, Ohio | <a href="https://revolutionuc.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Cornell Digital Ag Hackathon](https://digitalaghackathon.com/)** | February 28 - March 1, 2025 | Ithaca, New York | <a href="https://digitalaghackathon.com/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[cmd-f 2025](https://cmd-f.nwplus.io)** | March 8-9, 2025 | Vancouver, British Columbia | <a href="https://cmd-f.nwplus.io" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Bitcamp 2025](https://bit.camp)** | April 11-13, 2025 | College Park, Maryland | <a href="https://bit.camp" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[WEHack](https://www.wehackutd.com)** | April 12-13, 2025 | Richardson, Texas | <a href="https://www.wehackutd.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackKU](https://hackku.org)** | April 18-20, 2025 | Lawrence, Kansas | <a href="https://hackku.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[Cornell Health Hackathon](https://eship.cornell.edu/all-events/hackathons/)** | Spring 2025 | TBA | <a href="https://eship.cornell.edu/all-events/hackathons/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Cornell Health Hackathon](https://cornellhealthhackathon.com/)** | Spring 2025 | New York, New York | <a href="https://cornellhealthhackathon.com/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[Cornell AI Hackathon](https://eship.cornell.edu/all-events/hackathons/)** | Spring 2025 | New York City, New York | <a href="https://eship.cornell.edu/all-events/hackathons/" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack NYU](https://www.hacknyu.org)** | Spring 2025 | Brooklyn, New York | <a href="https://www.hacknyu.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
