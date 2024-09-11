@@ -23,7 +23,7 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[HackMIT](https://hackmit.org)** | September 14-15, 2024 | Boston, Massachussetts | 🔒 |
 | **[HackMTY](https://hackmty.com)** | September 14-15, 2024 | Monterrey Nuevo Leon | <a href="https://hackmty.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack the Mountains 5.0](https://hackthemountain.tech)** | September 14-15, 2024 | Marwadi University, Gujarat | <a href="https://hackthemountain.tech" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[HackRice 14](https://www.hackrice.com)** | September 20-22, 2024 | Houston, Texas | <a href="https://www.hackrice.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[HackRice 14](https://www.hackrice.com)** | September 20-22, 2024 | Houston, Texas | 🔒 |
 | **[PennApps](https://2024f.pennapps.com)** | September 20-22, 2024 | Philadelphia, Pennsylvania | 🔒 |
 | **[HackGT 11](https://hack.gt)** | September 27-29, 2024 | Atlanta, Georgia | <a href="https://hack.gt" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[ShellHacks](https://www.shellhacks.net)** | September 27-29, 2024 | Miami, Florida | <a href="https://www.shellhacks.net" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
@@ -33,7 +33,7 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 | **[SteelHacks XI](https://steelhacks.com)** | September 28-29, 2024 | Pittsburgh, Pennsylvania | <a href="https://steelhacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Knight Hacks VII](https://2024.knighthacks.org)** | October 4-6, 2024 | Orlando, Florida | <a href="https://2024.knighthacks.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[YHack 2024](https://yhack.org)** | October 4-6, 2024 | Nev Haven, Connecticut | <a href="https://yhack.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[DivHacks 2024](https://www.columbiadivhacks.org)** | October 5-6, 2024 | Waterloo, Ontario, Canada | <a href="https://hackthenorth.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
+| **[DivHacks 2024](https://www.columbiadivhacks.org)** | October 5-6, 2024 | New York, New York | 🔒 |
 | **[Owl Hacks](https://www.owlhacks.com)** | October 5-6, 2024 | Philadelphia, Pennsylvania | <a href="https://www.owlhacks.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackSMU VI](https://hacksmu.org)** | October 5-6, 2024 | Dallas, Texas | <a href="https://hacksmu.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[PatriotHacks](https://patriothacks.org)** | October 11-13, 2024 | Fairfax, Virginia | <a href="https://patriothacks.org" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
