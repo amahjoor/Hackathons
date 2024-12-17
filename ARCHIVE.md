@@ -59,7 +59,6 @@ This just contains hackathons that are over, in case anyone was interested for a
 | **[Unihacks 6](https://unihack.eu)** | November 21-24, 2024 | Timisoara, Timis | <a href="https://unihack.eu" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hack Western 11](https://www.hackwestern.com)** | November 29 - December 1, 2024 | London, Ontario | <a href="https://www.hackwestern.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[#BuildWithAI Hackathon 2024](https://genai.works/hackathon)** | December 6 - December 9, 2024 | Virtual | <a href="https://genai.works/hackathon"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[HackUNCP](https://www.hackuncp.com)** | Fall 2024 | Pembroke, North Carolina | <a href="https://www.hackuncp.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[HackUMBC](https://www.hackumbc.tech/)** | Fall 2024 | Catonsville, Maryland | <a href="https://www.hackumbc.tech/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[DandyHacks](https://dandyhacks.net/)** | Fall 2024 | Rochester, New York | <a href="https://dandyhacks.net/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 
