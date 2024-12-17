@@ -17,11 +17,6 @@ Use this repo to share and keep track of hackathons happening from 2024 - 2025. 
 # In-Person Hackathons
 | Hackathon | Date | Location | Application/Link |
 | --------- | ---- | -------- | ---------------- |
-| **[Hack Western 11](https://www.hackwestern.com)** | November 29 - December 1, 2024 | London, Ontario | <a href="https://www.hackwestern.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[#BuildWithAI Hackathon 2024](https://genai.works/hackathon)** | December 6 - December 9, 2024 | Virtual | <a href="https://genai.works/hackathon"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[HackUNCP](https://www.hackuncp.com)** | Fall 2024 | Pembroke, North Carolina | <a href="https://www.hackuncp.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[HackUMBC](https://www.hackumbc.tech/)** | Fall 2024 | Catonsville, Maryland | <a href="https://www.hackumbc.tech/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
-| **[DandyHacks](https://dandyhacks.net/)** | Fall 2024 | Rochester, New York | <a href="https://dandyhacks.net/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[MIT Reality Hack](https://www.mitrealityhack.com)** | January 2025 | Boston, Massachussetts | <a href="https://www.mitrealityhack.com" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[nwHacks 2025](https://nwhacks.io)** | January 18-19, 2025 | Vancouver, British Columbia | <a href="https://nwhacks.io" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
 | **[Hoya Hacks](https://hoyahacks.georgetown.domains)** | January 24-26, 2025 | Washington DC | <a href="https://hoyahacks.georgetown.domains" target="_blank"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> |
