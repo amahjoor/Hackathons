@@ -1,15 +1,9 @@
 # Arman's Hackathon List 
 
-Use this repo to share and keep track of hackathons happening. Most of them are recurring. 
-
-**Reach out to me if you'd like to help maintain this list!**
-
 🙏 **Contribute a hackathon by submitting an [issue](https://github.com/amahjoor/Hackathon-List/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
 ## The List 🧑‍💻😈
-
-<!--  - 🎓 - Requires being enrolled in a college program -->
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
